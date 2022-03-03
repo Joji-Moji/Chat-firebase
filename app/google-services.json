@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "242335567938",
+    "firebase_url": "https://mychat-15469-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "mychat-15469",
+    "storage_bucket": "mychat-15469.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:242335567938:android:8f776dd6846c7a1c7fdddb",
+        "android_client_info": {
+          "package_name": "com.gatsu.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "242335567938-ha7k5t60nm1sloben9id0e281nanl4ev.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkJ1AS7xUn93NnCAERxCE_dulYV2dBfc0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "242335567938-ha7k5t60nm1sloben9id0e281nanl4ev.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
